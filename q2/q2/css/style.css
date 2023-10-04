@@ -1,2 +1,20 @@
 @charset "UTF-8";
+
 /* 回答はここから */
+
+.card {
+    outline: 10px solid #655;
+    box-shadow: 0 0 0 6px #655;
+    border-radius: 13px;
+    background-color: #d2b48c;
+    width: 200px;
+    padding: 10px;
+}
+
+.item {
+    display: flex;
+    height: auto;
+    gap: 50px 60px;
+    justify-content: center;
+    margin: 30px 0;
+}

@@ -1,1 +1,52 @@
 @charset "UTF-8";
+
+/*--------a--------*/
+
+.table-a {
+    width: 100%;
+    line-height: 50px;
+    margin-bottom: 50px;
+}
+
+.table-a tr th:nth-of-type(1) {
+    background-color: #ff7b7b;
+    width: 300px;
+}
+
+.table-a tr th:nth-of-type(2) {
+    background-color: #7b86ff;
+    width: auto;
+}
+
+.table-a tr th:nth-of-type(3) {
+    background-color: #fff27b;
+    width: 300px;
+}
+
+
+/*--------b--------*/
+
+.table-b {
+    width: 100%;
+    line-height: 50px;
+}
+
+.table-b tr th:nth-of-type(1) {
+    background-color: #7bff91;
+    width: auto;
+}
+
+.table-b tr th:nth-of-type(2) {
+    background-color: #ff7be2;
+    width: 400px;
+}
+
+.table-b tr th:nth-of-type(3) {
+    background-color: #ffc67b;
+    width: 400px;
+}
+
+.table-b tr th:nth-of-type(4) {
+    background-color: #7bf2ff;
+    width: auto;
+}
